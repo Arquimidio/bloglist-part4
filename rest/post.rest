@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFycXVpbWlkaW8iLCJpZCI6IjYyZTY5NjhiYTRmNmFjNmNlODEzNDcwYSIsImlhdCI6MTY1OTI3OTMzNX0.7irbPMQVOgP3h34xvppCrOIzpnSD2hKsbO9jLGkuvBk
+
+{
+    "title": "metro",
+    "author": "adfdsf",
+    "url": "fsdafsda",
+    "likes": 100
+}
